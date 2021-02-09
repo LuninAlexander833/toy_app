@@ -57,5 +57,3 @@ group :test do
 end
 
 gem 'pg'
-
-gem 'sqlite3'
